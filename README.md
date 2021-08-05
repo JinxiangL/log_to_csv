@@ -5,6 +5,8 @@
 This application only converts the log file with follow format: </br>
 ![plot](./Pic/logfile.jpg)
 
+The csv file to download has the same filename with the imported log file, the download path would be selected by users.
+
 ### Required package
 pandas </br>
 csv </br>
