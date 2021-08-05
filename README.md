@@ -2,8 +2,7 @@
 
 ![plot](./Pic/app.png)
 
-This application only converts the log file with follow format:
-
+This application only converts the log file with follow format: </br>
 ![plot](./Pic/logfile.png)
 
 ### Required package
