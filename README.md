@@ -2,6 +2,10 @@
 
 ![plot](./Pic/app.png)
 
+This application only converts the log file with follow format:
+
+![plot](./Pic/logfile.png)
+
 ### Required package
 pandas </br>
 csv </br>
