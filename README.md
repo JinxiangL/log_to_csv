@@ -3,7 +3,7 @@
 ![plot](./Pic/app.png)
 
 This application only converts the log file with follow format: </br>
-![plot](./Pic/logfile.png)
+![plot](./Pic/logfile.jpg)
 
 ### Required package
 pandas </br>
